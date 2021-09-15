@@ -1,1 +1,1 @@
-# Test-task-JavaScript-
+# Test-task-JavaScript
